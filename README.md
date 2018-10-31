@@ -21,6 +21,10 @@ pip3 install -r requirement.txt
 
 ## Running the program
 
+Before running the program, both for TASK1_LEADBOOK.py and TASK2_LEADBOOK.py, change host, user, passwd for your MySQL configuration.
+
+After that, you can run the following command on terminal
+
 ### Task 1
 ```
 python3 TASK1_LEADBOOK.py
