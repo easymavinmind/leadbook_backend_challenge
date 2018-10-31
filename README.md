@@ -31,4 +31,4 @@ python3 TASK1_LEADBOOK.py
 python3 TASK2_LEADBOOK.py
 ```
 
-Brief Explaination in [answer.pdf](https://github.com/easymavinmind/leadbook_backend_challenge/answer.pdf). 
+Brief Explaination in [answer.pdf](https://github.com/easymavinmind/leadbook_backend_challenge/blob/master/answer.pdf). 
