@@ -8,7 +8,7 @@ This repo is about building web framework using flask in python and MySQL, and c
 python3
 MySQL
 ```
-In MySQL, there are database named 'leadbook' and it has 2 tables which called company and contact
+In MySQL, there is a database named 'leadbook' and it has 2 tables which called company and contact
 
 
 ### Installing
